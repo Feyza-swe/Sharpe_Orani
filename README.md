@@ -38,7 +38,11 @@ Program çalıştırıldığında sırasıyla şu veriler istenir:
 ## 📂 Örnek Çıktı
 
 Yatirim getirisini girin (%): 12
+
 Risksiz faiz oranini girin (%): 4
+
 Standart sapmayi girin (%): 5
+
 Sharpe Orani: 1.60
+
 Sharpe Orani iyi.
