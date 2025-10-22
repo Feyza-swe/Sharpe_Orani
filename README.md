@@ -35,7 +35,7 @@ Program çalıştırıldığında sırasıyla şu veriler istenir:
 - **Risksiz faiz oranı (%)**
 - **Standart sapma (%)**
 
-##v 📂 Örnek Çıktı
+## 📂 Örnek Çıktı
 
 Yatirim getirisini girin (%): 12
 Risksiz faiz oranini girin (%): 4
